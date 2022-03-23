@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+## Some more about me 😃:
+
+### Favorite books 📖:
+
+* Forty Rules of Love
+* Little Fires Everywhere
+* Hunger Games
+
